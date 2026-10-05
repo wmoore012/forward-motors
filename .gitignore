@@ -1,0 +1,15 @@
+# Data stays out of the repository.
+*.csv
+*.parquet
+data/
+CarDD*/
+
+# Working drafts and private notes.
+*.docx
+Forward_Motors_Stage3_EDA (1).ipynb
+Forward_Motors_Stage3_EDA(1).ipynb
+Forward_Motors_Stage3_EDA_Clean.ipynb
+Forward_Motors_CPU_Point_and_Interval_Results.ipynb
+COLAB_EXECUTION_PLAN.json
+.ipynb_checkpoints/
+.DS_Store
