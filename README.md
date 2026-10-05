@@ -11,6 +11,6 @@ Forward Motors helps used-car buyers decide which auction vehicles deserve a clo
 **To rerun:** open it in Google Colab and choose *Runtime → Run all*.
 
 - **Part A, auction prices:** [Vehicle Sales Data](https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data) (Kaggle, version 1). Downloaded automatically with `kagglehub` and verified by SHA-256.
-- **Part B, damage images:** [CarDD](https://cardd-ustc.github.io/). The authors release it on request, so Part B is skipped unless `CARDD_ROOT` points to a local copy.
+- **Part B, damage images:** [CarDD](https://cardd-ustc.github.io/). Our copy comes directly from the authors, who share it only after a licensing request. Anyone else gets a public Kaggle copy ([issamjebnouni/cardd](https://www.kaggle.com/datasets/issamjebnouni/cardd), about 3 GB), downloaded automatically. Its image, annotation and per-class counts match our release.
 
 No data files are stored in this repository.
