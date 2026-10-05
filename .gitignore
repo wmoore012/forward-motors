@@ -13,3 +13,8 @@ Forward_Motors_CPU_Point_and_Interval_Results.ipynb
 COLAB_EXECUTION_PLAN.json
 .ipynb_checkpoints/
 .DS_Store
+
+# VIN-free VIN-lookup results the notebook reloads (no raw VINs; hash-checked in the notebook).
+!data/
+data/*
+!data/vin_recovery_candidates.csv.gz
