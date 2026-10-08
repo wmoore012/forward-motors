@@ -19,9 +19,8 @@ sell for, with a likely range, before the bidding starts.
 
 ```
 notebooks/
-  01_eda_auction_prices.ipynb    Stage 3, auction price data (Salan)
-  02_stage3_eda.ipynb            Stage 3, combined EDA: auction prices (builds on 01) and
-                                 CarDD damage images (Will). Runs on any account; data
+  02_stage3_eda.ipynb            The Stage 3 notebook: auction prices (Salan's EDA, expanded)
+                                 and CarDD damage images (Will). Runs on any account; data
                                  downloads automatically if it isn't on your Drive.
 data/                            Not tracked, except vin_recovery_candidates.csv.gz (VIN-free
                                  lookup results 02 reloads). See "Getting the data" below.
