@@ -1,5 +1,7 @@
 # Forward Motors
 
+> **Archived.** Active work is in the course repo, [uncc-dl/Fall-2026-DSBA-6165-Group-10](https://github.com/uncc-dl/Fall-2026-DSBA-6165-Group-10) (`notebooks/02_stage3_eda.ipynb`). This repo stays public because that notebook loads `data/vin_recovery_candidates.csv.gz` from here; please don't delete or rename it.
+
 DSBA 6165 Deep Learning project (UNC Charlotte), Mam Salan Njie and Will Moore.
 
 Forward Motors helps used-car buyers decide which auction vehicles deserve a closer look before bidding, combining auction price prediction, prediction ranges and visible-damage detection.
