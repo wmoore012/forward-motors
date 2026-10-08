@@ -27,6 +27,8 @@ data/                            Not tracked, except vin_recovery_candidates.csv
                                  lookup results 02 reloads). See "Getting the data" below.
 ```
 
+**Run it:** [Open notebooks/02_stage3_eda.ipynb in Colab](https://colab.research.google.com/github/uncc-dl/Fall-2026-DSBA-6165-Group-10/blob/main/notebooks/02_stage3_eda.ipynb), then Runtime → Run all.
+
 ## Getting the data
 
 **Auction prices.** "Vehicle Sales Data" by Syed Anwar Afridi on Kaggle, about 558,000 wholesale
