@@ -19,14 +19,14 @@ sell for, with a likely range, before the bidding starts.
 
 ```
 notebooks/
-  02_stage3_eda.ipynb            The Stage 3 notebook: auction prices (Salan's EDA, expanded)
+  stage3_eda.ipynb               The Stage 3 notebook: auction prices (Salan's EDA, expanded)
                                  and CarDD damage images (Will). Runs on any account; data
                                  downloads automatically if it isn't on your Drive.
 data/                            Not tracked, except vin_recovery_candidates.csv.gz (VIN-free
-                                 lookup results 02 reloads). See "Getting the data" below.
+                                 lookup results the notebook reloads). See "Getting the data" below.
 ```
 
-**Run it:** [Open notebooks/02_stage3_eda.ipynb in Colab](https://colab.research.google.com/github/uncc-dl/Fall-2026-DSBA-6165-Group-10/blob/main/notebooks/02_stage3_eda.ipynb), then Runtime → Run all.
+**Run it:** [Open notebooks/stage3_eda.ipynb in Colab](https://colab.research.google.com/github/uncc-dl/Fall-2026-DSBA-6165-Group-10/blob/main/notebooks/stage3_eda.ipynb), then Runtime → Run all.
 
 ## Getting the data
 
